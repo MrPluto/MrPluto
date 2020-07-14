@@ -2,7 +2,7 @@
 
 <!--
 **MrPluto/MrPluto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 - 🔭 I’m currently working on CSC
 - 🌱 I’m currently learning HOW TO SAVE MY HAIR
 - 👯 I’m looking to collaborate on PUBG
@@ -11,4 +11,4 @@
 - 📫 How to reach me: IN MIND
 - 😄 Pronouns: PLUTO
 - ⚡ Fun fact: OPS
--->
+
